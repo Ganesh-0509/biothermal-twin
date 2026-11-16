@@ -41,15 +41,16 @@ class HeatStressDataset(Dataset):
         print(f"    Features: {list(self.data.columns)}")
 
         # Feature columns (inputs to PINN)
+        # Mapping to PINN expected inputs: [HR, baseline_hr, cadence, ambient_temp, RH, solar, time, prev_temp]
         self.feature_cols = [
-            'heart_rate',
-            'sweat_rate',  # Using as proxy for baseline_hr (will normalize)
-            'work_intensity_met',  # Using as cadence proxy
-            'ambient_temp',
-            'relative_humidity',
-            'solar_load',  # From environment 'wbgt' as proxy
-            'time_exposed_minutes',
-            'core_temp'  # Previous core temp (using same timestep as approximation)
+            'heart_rate',           # Current HR
+            'skin_temp',            # Using as proxy for baseline variation
+            'work_intensity_met',   # Metabolic intensity (cadence proxy)
+            'ambient_temp',         # Ambient temperature
+            'relative_humidity',    # RH %
+            'wbgt',                 # Wet bulb globe temp (includes solar radiation)
+            'time_exposed_minutes', # Time exposed
+            'core_temp'             # Core temp (as previous timestep approximation)
         ]
 
         # Target columns (outputs from PINN)
@@ -238,11 +239,14 @@ def main():
     RESULTS_DIR.mkdir(exist_ok=True)
     CHECKPOINT_DIR.mkdir(exist_ok=True)
 
-    BATCH_SIZE = 64  # Small batch for 2GB VRAM
-    EPOCHS = 50  # Start with 50 epochs
+    BATCH_SIZE = 32  # Reduced for memory
+    EPOCHS = 100  # More epochs with smaller batches
     LEARNING_RATE = 0.001
     VAL_SPLIT = 0.2  # 80/20 train/val split
     DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+
+    # Memory optimization: Use only 1/3 of data for faster training
+    SAMPLE_FRACTION = 0.33  # Use 48,000 samples instead of 144,000
 
     print(f"[*] Configuration:")
     print(f"    Device: {DEVICE}")
@@ -252,7 +256,17 @@ def main():
     print(f"    Validation split: {VAL_SPLIT * 100}%\n")
 
     # Load dataset
-    dataset = HeatStressDataset(DATA_PATH)
+    full_dataset = HeatStressDataset(DATA_PATH)
+
+    # Store stats before subsetting
+    dataset_stats = full_dataset.stats
+
+    # Sample subset for memory efficiency
+    sample_size = int(len(full_dataset) * SAMPLE_FRACTION)
+    indices = torch.randperm(len(full_dataset))[:sample_size]
+    dataset = torch.utils.data.Subset(full_dataset, indices)
+
+    print(f"[*] Using {len(dataset):,} samples ({SAMPLE_FRACTION*100:.0f}% of full dataset)\n")
 
     # Train/val split
     val_size = int(len(dataset) * VAL_SPLIT)
@@ -312,7 +326,7 @@ def main():
         val_losses.append(val_loss)
 
         # Print progress
-        if epoch % 5 == 0 or epoch == 1:
+        if epoch % 10 == 0 or epoch == 1:
             print(f"Epoch {epoch}/{EPOCHS}")
             print(f"  Train Loss: {train_loss:.4f}")
             print(f"  Val Loss: {val_loss:.4f}")
@@ -330,7 +344,7 @@ def main():
                 'optimizer_state_dict': optimizer.state_dict(),
                 'val_loss': val_loss,
                 'val_metrics': val_metrics,
-                'feature_stats': dataset.stats
+                'feature_stats': dataset_stats
             }, CHECKPOINT_DIR / 'pinn_best.pt')
 
     print("\n[SUCCESS] Training complete!\n")
