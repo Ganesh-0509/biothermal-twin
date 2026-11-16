@@ -134,16 +134,16 @@ def generate_dataset(
     output_path = Path(output_dir)
     output_path.mkdir(exist_ok=True)
 
-    print(f"🔬 Generating synthetic dataset...")
-    print(f"   Workers: {num_workers}")
-    print(f"   Scenarios: {scenarios}")
-    print(f"   Output: {output_dir}/")
+    print(f"[*] Generating synthetic dataset...")
+    print(f"    Workers: {num_workers}")
+    print(f"    Scenarios: {scenarios}")
+    print(f"    Output: {output_dir}/")
 
     all_data = []
     worker_profiles = []
 
     for scenario in scenarios:
-        print(f"\n📊 Scenario: {scenario}")
+        print(f"\n[*] Scenario: {scenario}")
 
         # Create environment
         env = SiteEnvironment(scenario)
@@ -179,7 +179,7 @@ def generate_dataset(
 
     # Save to CSV
     csv_path = output_path / "synthetic_telemetry.csv"
-    print(f"\n💾 Saving telemetry data to {csv_path}...")
+    print(f"\n[*] Saving telemetry data to {csv_path}...")
 
     fieldnames = list(all_data[0].keys())
     with open(csv_path, 'w', newline='') as f:
@@ -189,7 +189,7 @@ def generate_dataset(
 
     # Save worker profiles to JSON
     json_path = output_path / "worker_profiles.json"
-    print(f"💾 Saving worker profiles to {json_path}...")
+    print(f"[*] Saving worker profiles to {json_path}...")
 
     with open(json_path, 'w') as f:
         json.dump(worker_profiles, f, indent=2)
@@ -221,17 +221,17 @@ def generate_dataset(
     }
 
     metadata_path = output_path / "dataset_metadata.json"
-    print(f"💾 Saving metadata to {metadata_path}...")
+    print(f"[*] Saving metadata to {metadata_path}...")
 
     with open(metadata_path, 'w') as f:
         json.dump(metadata, f, indent=2)
 
     # Generate summary statistics
-    print(f"\n✅ Dataset generation complete!")
-    print(f"   Total datapoints: {len(all_data):,}")
-    print(f"   Core temp range: {metadata['core_temp_range']['min']:.2f} - {metadata['core_temp_range']['max']:.2f}°C")
-    print(f"   PSI range: {metadata['psi_range']['min']:.2f} - {metadata['psi_range']['max']:.2f}")
-    print(f"   Validation: {'✅ PASS' if all(metadata['validation'].values()) else '❌ FAIL'}")
+    print(f"\n[SUCCESS] Dataset generation complete!")
+    print(f"    Total datapoints: {len(all_data):,}")
+    print(f"    Core temp range: {metadata['core_temp_range']['min']:.2f} - {metadata['core_temp_range']['max']:.2f} C")
+    print(f"    PSI range: {metadata['psi_range']['min']:.2f} - {metadata['psi_range']['max']:.2f}")
+    print(f"    Validation: {'PASS' if all(metadata['validation'].values()) else 'FAIL'}")
 
     return metadata
 
@@ -244,7 +244,7 @@ if __name__ == "__main__":
         output_dir="data"
     )
 
-    print(f"\n📁 Output files:")
-    print(f"   data/synthetic_telemetry.csv  ({metadata['total_datapoints']:,} rows)")
-    print(f"   data/worker_profiles.json  ({metadata['num_workers'] * len(metadata['scenarios'])} profiles)")
-    print(f"   data/dataset_metadata.json")
+    print(f"\n[*] Output files:")
+    print(f"    data/synthetic_telemetry.csv  ({metadata['total_datapoints']:,} rows)")
+    print(f"    data/worker_profiles.json  ({metadata['num_workers'] * len(metadata['scenarios'])} profiles)")
+    print(f"    data/dataset_metadata.json")

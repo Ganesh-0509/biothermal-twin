@@ -1,0 +1,2702 @@
+[
+  {
+    "worker_id": "W-00001",
+    "age": 32,
+    "bmi": 24.958882646236994,
+    "baseline_hr": 55,
+    "acclimatization": 0.12650607847934323,
+    "body_mass_kg": 72.1311708476249,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00002",
+    "age": 31,
+    "bmi": 21.385891138621414,
+    "baseline_hr": 64,
+    "acclimatization": 0.7759236808212833,
+    "body_mass_kg": 61.80522539061588,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00003",
+    "age": 29,
+    "bmi": 26.99828608875274,
+    "baseline_hr": 56,
+    "acclimatization": 0.28971247019979607,
+    "body_mass_kg": 78.0250467964954,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00004",
+    "age": 32,
+    "bmi": 24.432949869372205,
+    "baseline_hr": 60,
+    "acclimatization": 0.5507640644506628,
+    "body_mass_kg": 70.61122512248566,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00005",
+    "age": 30,
+    "bmi": 24.3978227341503,
+    "baseline_hr": 75,
+    "acclimatization": 0.6665895671140186,
+    "body_mass_kg": 70.50970770169435,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00006",
+    "age": 34,
+    "bmi": 21.552939897411562,
+    "baseline_hr": 60,
+    "acclimatization": 0.7998990573175189,
+    "body_mass_kg": 62.28799630351941,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00007",
+    "age": 24,
+    "bmi": 23.2057890035136,
+    "baseline_hr": 62,
+    "acclimatization": 0.6840289934283508,
+    "body_mass_kg": 67.0647302201543,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00008",
+    "age": 31,
+    "bmi": 26.555781615161855,
+    "baseline_hr": 71,
+    "acclimatization": 0.5205880248870106,
+    "body_mass_kg": 76.74620886781776,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00009",
+    "age": 36,
+    "bmi": 23.294716857612798,
+    "baseline_hr": 59,
+    "acclimatization": 0.3865807268475461,
+    "body_mass_kg": 67.32173171850098,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00010",
+    "age": 33,
+    "bmi": 21.99567452352072,
+    "baseline_hr": 56,
+    "acclimatization": 0.6669239582518109,
+    "body_mass_kg": 63.56749937297487,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00011",
+    "age": 26,
+    "bmi": 23.57482161749164,
+    "baseline_hr": 57,
+    "acclimatization": 0.6101126703575331,
+    "body_mass_kg": 68.13123447455084,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00012",
+    "age": 39,
+    "bmi": 26.04913162281853,
+    "baseline_hr": 60,
+    "acclimatization": 0.8139828915604892,
+    "body_mass_kg": 75.28199038994553,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00013",
+    "age": 31,
+    "bmi": 21.997226695546054,
+    "baseline_hr": 69,
+    "acclimatization": 0.5635131786401211,
+    "body_mass_kg": 63.571985150128086,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00014",
+    "age": 33,
+    "bmi": 26.397048568553494,
+    "baseline_hr": 67,
+    "acclimatization": 0.6827880833478012,
+    "body_mass_kg": 76.2874703631196,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00015",
+    "age": 34,
+    "bmi": 27.704945102746812,
+    "baseline_hr": 57,
+    "acclimatization": 0.764460923270149,
+    "body_mass_kg": 80.06729134693828,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00016",
+    "age": 40,
+    "bmi": 23.070745041568777,
+    "baseline_hr": 64,
+    "acclimatization": 0.6575446804905959,
+    "body_mass_kg": 66.67445317013376,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00017",
+    "age": 36,
+    "bmi": 25.5993744314446,
+    "baseline_hr": 64,
+    "acclimatization": 0.16411692095252506,
+    "body_mass_kg": 73.98219210687488,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00018",
+    "age": 24,
+    "bmi": 20.169917982428423,
+    "baseline_hr": 75,
+    "acclimatization": 0.2767433716414164,
+    "body_mass_kg": 58.29106296921814,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00019",
+    "age": 38,
+    "bmi": 24.08587801435607,
+    "baseline_hr": 55,
+    "acclimatization": 0.5279171439573935,
+    "body_mass_kg": 69.60818746148904,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00020",
+    "age": 27,
+    "bmi": 22.121098065967537,
+    "baseline_hr": 75,
+    "acclimatization": 0.8205201058285347,
+    "body_mass_kg": 63.92997341064618,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00021",
+    "age": 27,
+    "bmi": 21.072237112600895,
+    "baseline_hr": 75,
+    "acclimatization": 0.8501377390745177,
+    "body_mass_kg": 60.89876525541658,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00022",
+    "age": 28,
+    "bmi": 28.0,
+    "baseline_hr": 69,
+    "acclimatization": 0.3026334597942152,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00023",
+    "age": 31,
+    "bmi": 20.99051966974147,
+    "baseline_hr": 55,
+    "acclimatization": 0.32056364392096925,
+    "body_mass_kg": 60.66260184555284,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00024",
+    "age": 23,
+    "bmi": 24.609543591061016,
+    "baseline_hr": 60,
+    "acclimatization": 0.7865769227291398,
+    "body_mass_kg": 71.12158097816632,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00025",
+    "age": 35,
+    "bmi": 23.16973226855512,
+    "baseline_hr": 74,
+    "acclimatization": 0.22364603696869165,
+    "body_mass_kg": 66.96052625612428,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00026",
+    "age": 34,
+    "bmi": 24.96608292566012,
+    "baseline_hr": 65,
+    "acclimatization": 0.7016202663807105,
+    "body_mass_kg": 72.15197965515775,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00027",
+    "age": 42,
+    "bmi": 24.998480604829098,
+    "baseline_hr": 60,
+    "acclimatization": 0.5388195573529226,
+    "body_mass_kg": 72.24560894795609,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00028",
+    "age": 26,
+    "bmi": 23.428391469064447,
+    "baseline_hr": 69,
+    "acclimatization": 0.7233506331228391,
+    "body_mass_kg": 67.70805134559625,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00029",
+    "age": 27,
+    "bmi": 24.60856417481599,
+    "baseline_hr": 60,
+    "acclimatization": 0.30319108884060353,
+    "body_mass_kg": 71.1187504652182,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00030",
+    "age": 35,
+    "bmi": 27.53955547401482,
+    "baseline_hr": 55,
+    "acclimatization": 0.6112039169780235,
+    "body_mass_kg": 79.58931531990282,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00031",
+    "age": 28,
+    "bmi": 21.91302164004776,
+    "baseline_hr": 60,
+    "acclimatization": 0.8295576425216078,
+    "body_mass_kg": 63.32863253973802,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00032",
+    "age": 37,
+    "bmi": 24.49139864875849,
+    "baseline_hr": 67,
+    "acclimatization": 0.8959154699744343,
+    "body_mass_kg": 70.78014209491204,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00033",
+    "age": 29,
+    "bmi": 27.211433291051392,
+    "baseline_hr": 60,
+    "acclimatization": 0.7221377233578201,
+    "body_mass_kg": 78.64104221113851,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00034",
+    "age": 24,
+    "bmi": 26.670429553764166,
+    "baseline_hr": 58,
+    "acclimatization": 0.8970478942010397,
+    "body_mass_kg": 77.07754141037843,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00035",
+    "age": 28,
+    "bmi": 28.0,
+    "baseline_hr": 75,
+    "acclimatization": 0.3257755498821394,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00036",
+    "age": 32,
+    "bmi": 20.556349207790213,
+    "baseline_hr": 60,
+    "acclimatization": 0.6283547371741515,
+    "body_mass_kg": 59.40784921051371,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00037",
+    "age": 40,
+    "bmi": 20.957222878681463,
+    "baseline_hr": 58,
+    "acclimatization": 0.15461957665249657,
+    "body_mass_kg": 60.56637411938942,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00038",
+    "age": 29,
+    "bmi": 25.84260633746118,
+    "baseline_hr": 69,
+    "acclimatization": 0.8760321645090827,
+    "body_mass_kg": 74.6851323152628,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00039",
+    "age": 32,
+    "bmi": 27.226736893528507,
+    "baseline_hr": 67,
+    "acclimatization": 0.623089147878169,
+    "body_mass_kg": 78.68526962229738,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00040",
+    "age": 30,
+    "bmi": 24.420011733081658,
+    "baseline_hr": 59,
+    "acclimatization": 0.2257597506559918,
+    "body_mass_kg": 70.57383390860599,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00041",
+    "age": 32,
+    "bmi": 24.50766124844862,
+    "baseline_hr": 55,
+    "acclimatization": 0.2843637847040047,
+    "body_mass_kg": 70.82714100801651,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00042",
+    "age": 33,
+    "bmi": 22.572385560630945,
+    "baseline_hr": 74,
+    "acclimatization": 0.13682058359858337,
+    "body_mass_kg": 65.23419427022343,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00043",
+    "age": 37,
+    "bmi": 22.31266192130368,
+    "baseline_hr": 55,
+    "acclimatization": 0.1808830285737853,
+    "body_mass_kg": 64.48359295256762,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00044",
+    "age": 35,
+    "bmi": 28.0,
+    "baseline_hr": 61,
+    "acclimatization": 0.8423774437959544,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00045",
+    "age": 30,
+    "bmi": 22.21224527400268,
+    "baseline_hr": 59,
+    "acclimatization": 0.7640936065983568,
+    "body_mass_kg": 64.19338884186773,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00046",
+    "age": 35,
+    "bmi": 23.786499639111607,
+    "baseline_hr": 59,
+    "acclimatization": 0.5823041521959034,
+    "body_mass_kg": 68.74298395703254,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00047",
+    "age": 27,
+    "bmi": 23.830743099708208,
+    "baseline_hr": 75,
+    "acclimatization": 0.8552399445195517,
+    "body_mass_kg": 68.87084755815671,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00048",
+    "age": 29,
+    "bmi": 24.437296361873496,
+    "baseline_hr": 61,
+    "acclimatization": 0.5319065759146316,
+    "body_mass_kg": 70.62378648581439,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00049",
+    "age": 38,
+    "bmi": 21.884002816302875,
+    "baseline_hr": 63,
+    "acclimatization": 0.1204626166709081,
+    "body_mass_kg": 63.2447681391153,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00050",
+    "age": 26,
+    "bmi": 25.107193849061723,
+    "baseline_hr": 65,
+    "acclimatization": 0.8735559011800684,
+    "body_mass_kg": 72.55979022378837,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00051",
+    "age": 32,
+    "bmi": 25.224210667644613,
+    "baseline_hr": 57,
+    "acclimatization": 0.7104961757664724,
+    "body_mass_kg": 72.89796882949292,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00052",
+    "age": 41,
+    "bmi": 24.4663502946013,
+    "baseline_hr": 68,
+    "acclimatization": 0.8718687228206363,
+    "body_mass_kg": 70.70775235139774,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00053",
+    "age": 25,
+    "bmi": 23.161163239625136,
+    "baseline_hr": 62,
+    "acclimatization": 0.69336994599587,
+    "body_mass_kg": 66.93576176251663,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00054",
+    "age": 36,
+    "bmi": 21.499349646292913,
+    "baseline_hr": 55,
+    "acclimatization": 0.5466650324475839,
+    "body_mass_kg": 62.13312047778651,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00055",
+    "age": 27,
+    "bmi": 23.040369972113346,
+    "baseline_hr": 72,
+    "acclimatization": 0.662039415979226,
+    "body_mass_kg": 66.58666921940757,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00056",
+    "age": 39,
+    "bmi": 20.337782132072654,
+    "baseline_hr": 60,
+    "acclimatization": 0.8470495519827026,
+    "body_mass_kg": 58.77619036168996,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00057",
+    "age": 32,
+    "bmi": 20.0,
+    "baseline_hr": 62,
+    "acclimatization": 0.6538813802951552,
+    "body_mass_kg": 57.8,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00058",
+    "age": 29,
+    "bmi": 25.868033230069834,
+    "baseline_hr": 60,
+    "acclimatization": 0.8802425173562807,
+    "body_mass_kg": 74.7586160349018,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00059",
+    "age": 31,
+    "bmi": 26.596865480627827,
+    "baseline_hr": 58,
+    "acclimatization": 0.3438692152725139,
+    "body_mass_kg": 76.86494123901441,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00060",
+    "age": 27,
+    "bmi": 26.145458362913093,
+    "baseline_hr": 55,
+    "acclimatization": 0.1746253074778907,
+    "body_mass_kg": 75.56037466881882,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00061",
+    "age": 31,
+    "bmi": 25.04387961142703,
+    "baseline_hr": 65,
+    "acclimatization": 0.24798143029631795,
+    "body_mass_kg": 72.37681207702411,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00062",
+    "age": 32,
+    "bmi": 20.722841050643375,
+    "baseline_hr": 71,
+    "acclimatization": 0.781276742969965,
+    "body_mass_kg": 59.889010636359345,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00063",
+    "age": 38,
+    "bmi": 25.626685262789422,
+    "baseline_hr": 57,
+    "acclimatization": 0.11672475561081344,
+    "body_mass_kg": 74.06112040946142,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00064",
+    "age": 31,
+    "bmi": 23.5423742995546,
+    "baseline_hr": 63,
+    "acclimatization": 0.28549290848728703,
+    "body_mass_kg": 68.03746172571279,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00065",
+    "age": 26,
+    "bmi": 20.0,
+    "baseline_hr": 57,
+    "acclimatization": 0.2834410250293813,
+    "body_mass_kg": 57.8,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00066",
+    "age": 28,
+    "bmi": 24.06237258355956,
+    "baseline_hr": 67,
+    "acclimatization": 0.1346354383625758,
+    "body_mass_kg": 69.54025676648712,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00067",
+    "age": 37,
+    "bmi": 24.96668530148911,
+    "baseline_hr": 64,
+    "acclimatization": 0.7019195797043998,
+    "body_mass_kg": 72.15372052130353,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00068",
+    "age": 40,
+    "bmi": 20.84692068630309,
+    "baseline_hr": 62,
+    "acclimatization": 0.5518754594757973,
+    "body_mass_kg": 60.247600783415926,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00069",
+    "age": 33,
+    "bmi": 21.763590106523022,
+    "baseline_hr": 72,
+    "acclimatization": 0.3332981343876419,
+    "body_mass_kg": 62.89677540785153,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00070",
+    "age": 32,
+    "bmi": 24.391754060665342,
+    "baseline_hr": 60,
+    "acclimatization": 0.5690553675242753,
+    "body_mass_kg": 70.49216923532283,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00071",
+    "age": 34,
+    "bmi": 25.940581344827216,
+    "baseline_hr": 60,
+    "acclimatization": 0.6098730466450125,
+    "body_mass_kg": 74.96828008655065,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00072",
+    "age": 27,
+    "bmi": 25.308806727445603,
+    "baseline_hr": 61,
+    "acclimatization": 0.2529515328180071,
+    "body_mass_kg": 73.14245144231778,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00073",
+    "age": 26,
+    "bmi": 22.13224013824733,
+    "baseline_hr": 65,
+    "acclimatization": 0.2643016024514996,
+    "body_mass_kg": 63.96217399953478,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00074",
+    "age": 28,
+    "bmi": 20.04278294049497,
+    "baseline_hr": 70,
+    "acclimatization": 0.5936309679580423,
+    "body_mass_kg": 57.923642698030456,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00075",
+    "age": 25,
+    "bmi": 24.92421828256667,
+    "baseline_hr": 61,
+    "acclimatization": 0.8420209138612067,
+    "body_mass_kg": 72.03099083661768,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00076",
+    "age": 40,
+    "bmi": 24.4001237679356,
+    "baseline_hr": 70,
+    "acclimatization": 0.7725806673984135,
+    "body_mass_kg": 70.51635768933387,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00077",
+    "age": 30,
+    "bmi": 23.33637761785525,
+    "baseline_hr": 59,
+    "acclimatization": 0.741143856550887,
+    "body_mass_kg": 67.44213131560166,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00078",
+    "age": 35,
+    "bmi": 23.196510239983848,
+    "baseline_hr": 75,
+    "acclimatization": 0.5346170921248017,
+    "body_mass_kg": 67.03791459355331,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00079",
+    "age": 40,
+    "bmi": 27.04937559412202,
+    "baseline_hr": 66,
+    "acclimatization": 0.6340765108528503,
+    "body_mass_kg": 78.17269546701263,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00080",
+    "age": 40,
+    "bmi": 28.0,
+    "baseline_hr": 72,
+    "acclimatization": 0.8512448573611351,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00081",
+    "age": 31,
+    "bmi": 21.30025201485565,
+    "baseline_hr": 55,
+    "acclimatization": 0.6029129668152171,
+    "body_mass_kg": 61.557728322932824,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00082",
+    "age": 30,
+    "bmi": 23.392150565442204,
+    "baseline_hr": 68,
+    "acclimatization": 0.24631422553451232,
+    "body_mass_kg": 67.60331513412797,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00083",
+    "age": 28,
+    "bmi": 21.257435811293597,
+    "baseline_hr": 62,
+    "acclimatization": 0.571969266425149,
+    "body_mass_kg": 61.43398949463849,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00084",
+    "age": 33,
+    "bmi": 24.58358811159555,
+    "baseline_hr": 66,
+    "acclimatization": 0.8367802684618896,
+    "body_mass_kg": 71.04656964251113,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00085",
+    "age": 37,
+    "bmi": 25.507231343292762,
+    "baseline_hr": 60,
+    "acclimatization": 0.5125829656620262,
+    "body_mass_kg": 73.71589858211607,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00086",
+    "age": 33,
+    "bmi": 20.0,
+    "baseline_hr": 69,
+    "acclimatization": 0.2241339606364109,
+    "body_mass_kg": 57.8,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00087",
+    "age": 37,
+    "bmi": 23.601513274638563,
+    "baseline_hr": 55,
+    "acclimatization": 0.8038213103125917,
+    "body_mass_kg": 68.20837336370543,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00088",
+    "age": 26,
+    "bmi": 23.929273080701428,
+    "baseline_hr": 68,
+    "acclimatization": 0.8990364699040388,
+    "body_mass_kg": 69.15559920322713,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00089",
+    "age": 34,
+    "bmi": 22.884693823430684,
+    "baseline_hr": 58,
+    "acclimatization": 0.19818423117888007,
+    "body_mass_kg": 66.13676514971466,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00090",
+    "age": 25,
+    "bmi": 25.271341969179474,
+    "baseline_hr": 62,
+    "acclimatization": 0.6158273013736946,
+    "body_mass_kg": 73.03417829092866,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00091",
+    "age": 39,
+    "bmi": 25.446124523761657,
+    "baseline_hr": 55,
+    "acclimatization": 0.565808007583754,
+    "body_mass_kg": 73.53929987367118,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00092",
+    "age": 37,
+    "bmi": 26.97460084962266,
+    "baseline_hr": 75,
+    "acclimatization": 0.896307504212998,
+    "body_mass_kg": 77.95659645540948,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00093",
+    "age": 35,
+    "bmi": 22.48104984039722,
+    "baseline_hr": 66,
+    "acclimatization": 0.2244201145428622,
+    "body_mass_kg": 64.97023403874796,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00094",
+    "age": 39,
+    "bmi": 23.310655100103197,
+    "baseline_hr": 62,
+    "acclimatization": 0.6845366462332608,
+    "body_mass_kg": 67.36779323929824,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00095",
+    "age": 34,
+    "bmi": 27.228379113205406,
+    "baseline_hr": 62,
+    "acclimatization": 0.7233197467174192,
+    "body_mass_kg": 78.69001563716361,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00096",
+    "age": 29,
+    "bmi": 23.32557387260627,
+    "baseline_hr": 72,
+    "acclimatization": 0.8450153587151079,
+    "body_mass_kg": 67.41090849183212,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00097",
+    "age": 43,
+    "bmi": 23.283443158282108,
+    "baseline_hr": 75,
+    "acclimatization": 0.7286510978305468,
+    "body_mass_kg": 67.28915072743528,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00098",
+    "age": 34,
+    "bmi": 21.0663745474859,
+    "baseline_hr": 74,
+    "acclimatization": 0.8965978875212801,
+    "body_mass_kg": 60.881822442234245,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00099",
+    "age": 31,
+    "bmi": 28.0,
+    "baseline_hr": 75,
+    "acclimatization": 0.8161397940860557,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00100",
+    "age": 40,
+    "bmi": 21.280895901554405,
+    "baseline_hr": 55,
+    "acclimatization": 0.33284057174526094,
+    "body_mass_kg": 61.501789155492226,
+    "scenario": "normal"
+  },
+  {
+    "worker_id": "W-00001",
+    "age": 23,
+    "bmi": 24.70533945051063,
+    "baseline_hr": 60,
+    "acclimatization": 0.5357572346629387,
+    "body_mass_kg": 71.3984310119757,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00002",
+    "age": 40,
+    "bmi": 20.383591127660623,
+    "baseline_hr": 75,
+    "acclimatization": 0.8405659247994628,
+    "body_mass_kg": 58.908578358939195,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00003",
+    "age": 32,
+    "bmi": 20.0,
+    "baseline_hr": 69,
+    "acclimatization": 0.7885011188136104,
+    "body_mass_kg": 57.8,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00004",
+    "age": 38,
+    "bmi": 26.51588952952744,
+    "baseline_hr": 59,
+    "acclimatization": 0.5049290979838733,
+    "body_mass_kg": 76.63092074033429,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00005",
+    "age": 32,
+    "bmi": 20.512776421662846,
+    "baseline_hr": 70,
+    "acclimatization": 0.6115791660840503,
+    "body_mass_kg": 59.281923858605616,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00006",
+    "age": 33,
+    "bmi": 27.486921577171557,
+    "baseline_hr": 72,
+    "acclimatization": 0.18006774818603621,
+    "body_mass_kg": 79.4372033580258,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00007",
+    "age": 31,
+    "bmi": 24.839976852000323,
+    "baseline_hr": 75,
+    "acclimatization": 0.5137890483495849,
+    "body_mass_kg": 71.78753310228093,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00008",
+    "age": 32,
+    "bmi": 24.127203490567595,
+    "baseline_hr": 61,
+    "acclimatization": 0.7716527829007411,
+    "body_mass_kg": 69.72761808774034,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00009",
+    "age": 27,
+    "bmi": 27.962576856862526,
+    "baseline_hr": 68,
+    "acclimatization": 0.6934300292850836,
+    "body_mass_kg": 80.81184711633269,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00010",
+    "age": 31,
+    "bmi": 20.0,
+    "baseline_hr": 72,
+    "acclimatization": 0.779989630795873,
+    "body_mass_kg": 57.8,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00011",
+    "age": 41,
+    "bmi": 20.133773750887872,
+    "baseline_hr": 72,
+    "acclimatization": 0.8539086563635372,
+    "body_mass_kg": 58.18660614006595,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00012",
+    "age": 41,
+    "bmi": 23.50400660829719,
+    "baseline_hr": 60,
+    "acclimatization": 0.5369048187779516,
+    "body_mass_kg": 67.92657909797887,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00013",
+    "age": 37,
+    "bmi": 25.558186908768317,
+    "baseline_hr": 55,
+    "acclimatization": 0.7891273170657926,
+    "body_mass_kg": 73.86316016634042,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00014",
+    "age": 36,
+    "bmi": 25.972393174730172,
+    "baseline_hr": 55,
+    "acclimatization": 0.3445481693740723,
+    "body_mass_kg": 75.06021627497019,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00015",
+    "age": 41,
+    "bmi": 27.79319054298049,
+    "baseline_hr": 70,
+    "acclimatization": 0.50022750267016,
+    "body_mass_kg": 80.32232066921361,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00016",
+    "age": 36,
+    "bmi": 25.258893049609505,
+    "baseline_hr": 67,
+    "acclimatization": 0.581404049481002,
+    "body_mass_kg": 72.99820091337146,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00017",
+    "age": 35,
+    "bmi": 25.60922669289246,
+    "baseline_hr": 75,
+    "acclimatization": 0.6937037242480332,
+    "body_mass_kg": 74.0106651424592,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00018",
+    "age": 27,
+    "bmi": 26.068259505725724,
+    "baseline_hr": 55,
+    "acclimatization": 0.8556822032257418,
+    "body_mass_kg": 75.33726997154733,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00019",
+    "age": 41,
+    "bmi": 25.88809724247305,
+    "baseline_hr": 69,
+    "acclimatization": 0.7756200301010181,
+    "body_mass_kg": 74.81660103074711,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00020",
+    "age": 29,
+    "bmi": 22.870087044979098,
+    "baseline_hr": 71,
+    "acclimatization": 0.6730385740743449,
+    "body_mass_kg": 66.09455155998958,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00021",
+    "age": 27,
+    "bmi": 28.0,
+    "baseline_hr": 74,
+    "acclimatization": 0.6428625870719997,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00022",
+    "age": 35,
+    "bmi": 24.754368690715037,
+    "baseline_hr": 55,
+    "acclimatization": 0.5646786000771225,
+    "body_mass_kg": 71.54012551616646,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00023",
+    "age": 41,
+    "bmi": 23.832641753023342,
+    "baseline_hr": 64,
+    "acclimatization": 0.629141688221283,
+    "body_mass_kg": 68.87633466623745,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00024",
+    "age": 27,
+    "bmi": 20.9852530724823,
+    "baseline_hr": 68,
+    "acclimatization": 0.5090531708128057,
+    "body_mass_kg": 60.64738137947384,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00025",
+    "age": 30,
+    "bmi": 23.54614809858696,
+    "baseline_hr": 59,
+    "acclimatization": 0.8804928919405794,
+    "body_mass_kg": 68.04836800491631,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00026",
+    "age": 31,
+    "bmi": 22.969137174189136,
+    "baseline_hr": 60,
+    "acclimatization": 0.8530317235652427,
+    "body_mass_kg": 66.38080643340659,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00027",
+    "age": 28,
+    "bmi": 27.508517469529597,
+    "baseline_hr": 60,
+    "acclimatization": 0.8854394258882241,
+    "body_mass_kg": 79.49961548694053,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00028",
+    "age": 25,
+    "bmi": 24.901016688660675,
+    "baseline_hr": 75,
+    "acclimatization": 0.8954700010882363,
+    "body_mass_kg": 71.96393823022935,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00029",
+    "age": 37,
+    "bmi": 24.43978991602705,
+    "baseline_hr": 74,
+    "acclimatization": 0.6475978269225392,
+    "body_mass_kg": 70.63099285731816,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00030",
+    "age": 40,
+    "bmi": 23.78597679126743,
+    "baseline_hr": 70,
+    "acclimatization": 0.5009661300866459,
+    "body_mass_kg": 68.74147292676287,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00031",
+    "age": 28,
+    "bmi": 26.653473879619078,
+    "baseline_hr": 60,
+    "acclimatization": 0.5559859609132659,
+    "body_mass_kg": 77.02853951209913,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00032",
+    "age": 26,
+    "bmi": 21.608619323275068,
+    "baseline_hr": 72,
+    "acclimatization": 0.10687327515249702,
+    "body_mass_kg": 62.44890984426494,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00033",
+    "age": 35,
+    "bmi": 26.920492211753572,
+    "baseline_hr": 72,
+    "acclimatization": 0.8147079398777212,
+    "body_mass_kg": 77.80022249196782,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00034",
+    "age": 36,
+    "bmi": 28.0,
+    "baseline_hr": 69,
+    "acclimatization": 0.2155315828077832,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00035",
+    "age": 33,
+    "bmi": 22.65767678041101,
+    "baseline_hr": 75,
+    "acclimatization": 0.6372976830625816,
+    "body_mass_kg": 65.48068589538781,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00036",
+    "age": 30,
+    "bmi": 23.754517058549308,
+    "baseline_hr": 70,
+    "acclimatization": 0.11832267431090121,
+    "body_mass_kg": 68.65055429920749,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00037",
+    "age": 37,
+    "bmi": 28.0,
+    "baseline_hr": 59,
+    "acclimatization": 0.8142007790767272,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00038",
+    "age": 30,
+    "bmi": 23.061263686088335,
+    "baseline_hr": 70,
+    "acclimatization": 0.8256071675390569,
+    "body_mass_kg": 66.64705205279527,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00039",
+    "age": 30,
+    "bmi": 27.091405673093515,
+    "baseline_hr": 69,
+    "acclimatization": 0.8869652732762645,
+    "body_mass_kg": 78.29416239524025,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00040",
+    "age": 26,
+    "bmi": 27.219931227532754,
+    "baseline_hr": 66,
+    "acclimatization": 0.8385779104210018,
+    "body_mass_kg": 78.66560124756965,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00041",
+    "age": 25,
+    "bmi": 23.514612758545095,
+    "baseline_hr": 55,
+    "acclimatization": 0.5722636883747712,
+    "body_mass_kg": 67.95723087219531,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00042",
+    "age": 27,
+    "bmi": 24.570756760925637,
+    "baseline_hr": 60,
+    "acclimatization": 0.8241170823236321,
+    "body_mass_kg": 71.00948703907508,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00043",
+    "age": 29,
+    "bmi": 22.78819862016057,
+    "baseline_hr": 55,
+    "acclimatization": 0.6605112792977541,
+    "body_mass_kg": 65.85789401226404,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00044",
+    "age": 33,
+    "bmi": 28.0,
+    "baseline_hr": 66,
+    "acclimatization": 0.33431876526170246,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00045",
+    "age": 31,
+    "bmi": 24.85147773244236,
+    "baseline_hr": 65,
+    "acclimatization": 0.18805742665726488,
+    "body_mass_kg": 71.8207706467584,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00046",
+    "age": 35,
+    "bmi": 22.202518940441298,
+    "baseline_hr": 66,
+    "acclimatization": 0.6341287585321113,
+    "body_mass_kg": 64.16527973787534,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00047",
+    "age": 29,
+    "bmi": 28.0,
+    "baseline_hr": 75,
+    "acclimatization": 0.7473922551638723,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00048",
+    "age": 25,
+    "bmi": 21.55323293310428,
+    "baseline_hr": 61,
+    "acclimatization": 0.7196758051089343,
+    "body_mass_kg": 62.288843176671364,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00049",
+    "age": 32,
+    "bmi": 25.381041988855355,
+    "baseline_hr": 68,
+    "acclimatization": 0.5593169826939596,
+    "body_mass_kg": 73.35121134779196,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00050",
+    "age": 34,
+    "bmi": 24.42634109790934,
+    "baseline_hr": 55,
+    "acclimatization": 0.7814516794809726,
+    "body_mass_kg": 70.59212577295798,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00051",
+    "age": 33,
+    "bmi": 24.190698719971465,
+    "baseline_hr": 57,
+    "acclimatization": 0.15339791023990557,
+    "body_mass_kg": 69.91111930071753,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00052",
+    "age": 37,
+    "bmi": 23.977755988698277,
+    "baseline_hr": 70,
+    "acclimatization": 0.5836066994946377,
+    "body_mass_kg": 69.29571480733802,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00053",
+    "age": 28,
+    "bmi": 26.118318961899774,
+    "baseline_hr": 60,
+    "acclimatization": 0.562214776850939,
+    "body_mass_kg": 75.48194179989034,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00054",
+    "age": 31,
+    "bmi": 20.669796599651455,
+    "baseline_hr": 71,
+    "acclimatization": 0.7492549844570606,
+    "body_mass_kg": 59.7357121729927,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00055",
+    "age": 32,
+    "bmi": 25.00203634530627,
+    "baseline_hr": 67,
+    "acclimatization": 0.23811917188961626,
+    "body_mass_kg": 72.25588503793512,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00056",
+    "age": 41,
+    "bmi": 26.868478478189264,
+    "baseline_hr": 69,
+    "acclimatization": 0.5093205373569537,
+    "body_mass_kg": 77.64990280196696,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00057",
+    "age": 27,
+    "bmi": 21.060939584194386,
+    "baseline_hr": 59,
+    "acclimatization": 0.5754365817254585,
+    "body_mass_kg": 60.86611539832177,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00058",
+    "age": 34,
+    "bmi": 24.695410972971175,
+    "baseline_hr": 61,
+    "acclimatization": 0.6718711097738136,
+    "body_mass_kg": 71.36973771188669,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00059",
+    "age": 26,
+    "bmi": 20.90221806729244,
+    "baseline_hr": 74,
+    "acclimatization": 0.7745595299880343,
+    "body_mass_kg": 60.40741021447515,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00060",
+    "age": 30,
+    "bmi": 21.1193985819153,
+    "baseline_hr": 69,
+    "acclimatization": 0.28269007137832086,
+    "body_mass_kg": 61.035061901735205,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00061",
+    "age": 26,
+    "bmi": 28.0,
+    "baseline_hr": 74,
+    "acclimatization": 0.6757179717796833,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00062",
+    "age": 29,
+    "bmi": 26.386333092270668,
+    "baseline_hr": 73,
+    "acclimatization": 0.5117596515242279,
+    "body_mass_kg": 76.25650263666222,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00063",
+    "age": 39,
+    "bmi": 23.24357396592174,
+    "baseline_hr": 71,
+    "acclimatization": 0.19015264326966697,
+    "body_mass_kg": 67.17392876151382,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00064",
+    "age": 31,
+    "bmi": 27.01683264874446,
+    "baseline_hr": 70,
+    "acclimatization": 0.6901803768245361,
+    "body_mass_kg": 78.07864635487148,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00065",
+    "age": 39,
+    "bmi": 23.89273874782964,
+    "baseline_hr": 55,
+    "acclimatization": 0.15404095733146994,
+    "body_mass_kg": 69.05001498122765,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00066",
+    "age": 26,
+    "bmi": 23.467881617163382,
+    "baseline_hr": 66,
+    "acclimatization": 0.860851656398455,
+    "body_mass_kg": 67.82217787360217,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00067",
+    "age": 33,
+    "bmi": 21.97726898732768,
+    "baseline_hr": 55,
+    "acclimatization": 0.18821793619649763,
+    "body_mass_kg": 63.51430737337699,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00068",
+    "age": 34,
+    "bmi": 28.0,
+    "baseline_hr": 68,
+    "acclimatization": 0.5569267872229655,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00069",
+    "age": 28,
+    "bmi": 27.412498197768247,
+    "baseline_hr": 59,
+    "acclimatization": 0.6791627294796329,
+    "body_mass_kg": 79.22211979155023,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00070",
+    "age": 31,
+    "bmi": 24.4573385660943,
+    "baseline_hr": 73,
+    "acclimatization": 0.7529615524592029,
+    "body_mass_kg": 70.68170845601252,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00071",
+    "age": 25,
+    "bmi": 25.84153213639952,
+    "baseline_hr": 55,
+    "acclimatization": 0.5106506484807646,
+    "body_mass_kg": 74.6820278741946,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00072",
+    "age": 36,
+    "bmi": 26.779857294394503,
+    "baseline_hr": 55,
+    "acclimatization": 0.6267718776911554,
+    "body_mass_kg": 77.39378758080011,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00073",
+    "age": 33,
+    "bmi": 22.50744470954051,
+    "baseline_hr": 65,
+    "acclimatization": 0.5849301817088863,
+    "body_mass_kg": 65.04651521057207,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00074",
+    "age": 36,
+    "bmi": 23.346059388895462,
+    "baseline_hr": 61,
+    "acclimatization": 0.6450485352818898,
+    "body_mass_kg": 67.47011163390788,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00075",
+    "age": 25,
+    "bmi": 27.32639450781288,
+    "baseline_hr": 74,
+    "acclimatization": 0.244104143543952,
+    "body_mass_kg": 78.97328012757922,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00076",
+    "age": 30,
+    "bmi": 21.117159244023377,
+    "baseline_hr": 55,
+    "acclimatization": 0.5679381864863381,
+    "body_mass_kg": 61.02859021522755,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00077",
+    "age": 37,
+    "bmi": 22.597055262234054,
+    "baseline_hr": 58,
+    "acclimatization": 0.7445458215613867,
+    "body_mass_kg": 65.30548970785641,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00078",
+    "age": 34,
+    "bmi": 23.01257567755118,
+    "baseline_hr": 75,
+    "acclimatization": 0.14384360198631077,
+    "body_mass_kg": 66.5063437081229,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00079",
+    "age": 26,
+    "bmi": 26.27109418779088,
+    "baseline_hr": 55,
+    "acclimatization": 0.5559417420295032,
+    "body_mass_kg": 75.92346220271563,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00080",
+    "age": 39,
+    "bmi": 27.334715834161873,
+    "baseline_hr": 64,
+    "acclimatization": 0.14215861658129575,
+    "body_mass_kg": 78.99732876072781,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00081",
+    "age": 36,
+    "bmi": 27.40506644523881,
+    "baseline_hr": 68,
+    "acclimatization": 0.14004973589938755,
+    "body_mass_kg": 79.20064202674016,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00082",
+    "age": 37,
+    "bmi": 24.165793885908677,
+    "baseline_hr": 68,
+    "acclimatization": 0.5285449612083833,
+    "body_mass_kg": 69.83914433027607,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00083",
+    "age": 25,
+    "bmi": 21.43706680625244,
+    "baseline_hr": 55,
+    "acclimatization": 0.26547673979211367,
+    "body_mass_kg": 61.953123070069545,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00084",
+    "age": 33,
+    "bmi": 27.709732038305944,
+    "baseline_hr": 57,
+    "acclimatization": 0.6484946682900428,
+    "body_mass_kg": 80.08112559070418,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00085",
+    "age": 34,
+    "bmi": 27.326988661219556,
+    "baseline_hr": 58,
+    "acclimatization": 0.5784617615990896,
+    "body_mass_kg": 78.9749972309245,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00086",
+    "age": 36,
+    "bmi": 27.04486678300661,
+    "baseline_hr": 61,
+    "acclimatization": 0.50975911890764,
+    "body_mass_kg": 78.1596650028891,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00087",
+    "age": 33,
+    "bmi": 23.820436670550592,
+    "baseline_hr": 66,
+    "acclimatization": 0.8665645053976181,
+    "body_mass_kg": 68.8410619778912,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00088",
+    "age": 30,
+    "bmi": 25.724234040010124,
+    "baseline_hr": 66,
+    "acclimatization": 0.28244104105638507,
+    "body_mass_kg": 74.34303637562925,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00089",
+    "age": 40,
+    "bmi": 23.727070756352656,
+    "baseline_hr": 75,
+    "acclimatization": 0.8375408322065374,
+    "body_mass_kg": 68.57123448585916,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00090",
+    "age": 40,
+    "bmi": 22.85705378561493,
+    "baseline_hr": 62,
+    "acclimatization": 0.536530217988181,
+    "body_mass_kg": 66.05688544042714,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00091",
+    "age": 38,
+    "bmi": 24.6854623822703,
+    "baseline_hr": 62,
+    "acclimatization": 0.10821999183989531,
+    "body_mass_kg": 71.34098628476116,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00092",
+    "age": 34,
+    "bmi": 20.099378666196596,
+    "baseline_hr": 69,
+    "acclimatization": 0.765180083977548,
+    "body_mass_kg": 58.08720434530816,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00093",
+    "age": 32,
+    "bmi": 27.47674032625147,
+    "baseline_hr": 68,
+    "acclimatization": 0.6522286796655399,
+    "body_mass_kg": 79.40777954286673,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00094",
+    "age": 31,
+    "bmi": 27.613578069396308,
+    "baseline_hr": 61,
+    "acclimatization": 0.8331393140193513,
+    "body_mass_kg": 79.80324062055531,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00095",
+    "age": 36,
+    "bmi": 27.35038542456793,
+    "baseline_hr": 55,
+    "acclimatization": 0.13314930071622283,
+    "body_mass_kg": 79.0426138770013,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00096",
+    "age": 32,
+    "bmi": 20.0,
+    "baseline_hr": 62,
+    "acclimatization": 0.31887984841022887,
+    "body_mass_kg": 57.8,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00097",
+    "age": 29,
+    "bmi": 24.25558970378103,
+    "baseline_hr": 69,
+    "acclimatization": 0.8044897125061553,
+    "body_mass_kg": 70.09865424392717,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00098",
+    "age": 31,
+    "bmi": 21.39042010874055,
+    "baseline_hr": 69,
+    "acclimatization": 0.39896482331825134,
+    "body_mass_kg": 61.81831411426018,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00099",
+    "age": 25,
+    "bmi": 27.246458177582227,
+    "baseline_hr": 59,
+    "acclimatization": 0.647885392446265,
+    "body_mass_kg": 78.74226413321263,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00100",
+    "age": 31,
+    "bmi": 20.0,
+    "baseline_hr": 64,
+    "acclimatization": 0.6972029766130262,
+    "body_mass_kg": 57.8,
+    "scenario": "extreme_heat"
+  },
+  {
+    "worker_id": "W-00001",
+    "age": 28,
+    "bmi": 25.11125121799852,
+    "baseline_hr": 67,
+    "acclimatization": 0.831397759021447,
+    "body_mass_kg": 72.57151602001572,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00002",
+    "age": 39,
+    "bmi": 24.715881610529028,
+    "baseline_hr": 72,
+    "acclimatization": 0.7166306170832131,
+    "body_mass_kg": 71.42889785442888,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00003",
+    "age": 37,
+    "bmi": 26.261964432760564,
+    "baseline_hr": 64,
+    "acclimatization": 0.2810222311625949,
+    "body_mass_kg": 75.89707721067802,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00004",
+    "age": 33,
+    "bmi": 23.257799644180057,
+    "baseline_hr": 58,
+    "acclimatization": 0.7878230443946747,
+    "body_mass_kg": 67.21504097168035,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00005",
+    "age": 34,
+    "bmi": 21.33293583807381,
+    "baseline_hr": 65,
+    "acclimatization": 0.3670524297071922,
+    "body_mass_kg": 61.6521845720333,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00006",
+    "age": 32,
+    "bmi": 27.389455451868184,
+    "baseline_hr": 55,
+    "acclimatization": 0.8258421154195941,
+    "body_mass_kg": 79.15552625589905,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00007",
+    "age": 34,
+    "bmi": 22.749103993953998,
+    "baseline_hr": 62,
+    "acclimatization": 0.5634981882552031,
+    "body_mass_kg": 65.74491054252705,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00008",
+    "age": 25,
+    "bmi": 23.466187193027366,
+    "baseline_hr": 63,
+    "acclimatization": 0.581696930832609,
+    "body_mass_kg": 67.81728098784907,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00009",
+    "age": 35,
+    "bmi": 28.0,
+    "baseline_hr": 68,
+    "acclimatization": 0.175879844566106,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00010",
+    "age": 40,
+    "bmi": 23.735142571059136,
+    "baseline_hr": 62,
+    "acclimatization": 0.7724098934333923,
+    "body_mass_kg": 68.59456203036089,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00011",
+    "age": 31,
+    "bmi": 22.900494943146004,
+    "baseline_hr": 75,
+    "acclimatization": 0.3704817804812518,
+    "body_mass_kg": 66.18243038569194,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00012",
+    "age": 37,
+    "bmi": 27.192249751934405,
+    "baseline_hr": 74,
+    "acclimatization": 0.3507015167236107,
+    "body_mass_kg": 78.58560178309042,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00013",
+    "age": 31,
+    "bmi": 25.48953318799586,
+    "baseline_hr": 70,
+    "acclimatization": 0.28138671570061,
+    "body_mass_kg": 73.66475091330803,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00014",
+    "age": 37,
+    "bmi": 26.568962132228744,
+    "baseline_hr": 69,
+    "acclimatization": 0.8518723796394085,
+    "body_mass_kg": 76.78430056214107,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00015",
+    "age": 37,
+    "bmi": 23.952537426301287,
+    "baseline_hr": 66,
+    "acclimatization": 0.26395813367793486,
+    "body_mass_kg": 69.22283316201072,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00016",
+    "age": 42,
+    "bmi": 21.18509435372937,
+    "baseline_hr": 65,
+    "acclimatization": 0.16675437126669845,
+    "body_mass_kg": 61.22492268227787,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00017",
+    "age": 24,
+    "bmi": 23.56891773778056,
+    "baseline_hr": 67,
+    "acclimatization": 0.8002924707306659,
+    "body_mass_kg": 68.1141722621858,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00018",
+    "age": 25,
+    "bmi": 26.631544832196205,
+    "baseline_hr": 69,
+    "acclimatization": 0.7853292019957876,
+    "body_mass_kg": 76.96516456504702,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00019",
+    "age": 33,
+    "bmi": 23.46804170585261,
+    "baseline_hr": 74,
+    "acclimatization": 0.11885602948014949,
+    "body_mass_kg": 67.82264052991404,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00020",
+    "age": 24,
+    "bmi": 22.17095491051082,
+    "baseline_hr": 69,
+    "acclimatization": 0.13080300037556225,
+    "body_mass_kg": 64.07405969137626,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00021",
+    "age": 23,
+    "bmi": 20.705144064078766,
+    "baseline_hr": 67,
+    "acclimatization": 0.5907813004870305,
+    "body_mass_kg": 59.83786634518763,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00022",
+    "age": 39,
+    "bmi": 23.243533985261834,
+    "baseline_hr": 63,
+    "acclimatization": 0.2730895663140667,
+    "body_mass_kg": 67.17381321740669,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00023",
+    "age": 39,
+    "bmi": 21.795240633616192,
+    "baseline_hr": 64,
+    "acclimatization": 0.7438601778916188,
+    "body_mass_kg": 62.98824543115079,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00024",
+    "age": 34,
+    "bmi": 24.98781493668134,
+    "baseline_hr": 55,
+    "acclimatization": 0.5712252686121659,
+    "body_mass_kg": 72.21478516700905,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00025",
+    "age": 33,
+    "bmi": 25.113787307451734,
+    "baseline_hr": 55,
+    "acclimatization": 0.6446039486091949,
+    "body_mass_kg": 72.5788453185355,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00026",
+    "age": 25,
+    "bmi": 24.73428842900656,
+    "baseline_hr": 66,
+    "acclimatization": 0.3818538943658363,
+    "body_mass_kg": 71.48209355982895,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00027",
+    "age": 30,
+    "bmi": 21.397887405163832,
+    "baseline_hr": 70,
+    "acclimatization": 0.33464686944395244,
+    "body_mass_kg": 61.839894600923465,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00028",
+    "age": 30,
+    "bmi": 23.089790930858925,
+    "baseline_hr": 75,
+    "acclimatization": 0.657047927645817,
+    "body_mass_kg": 66.72949579018228,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00029",
+    "age": 31,
+    "bmi": 24.01658886471769,
+    "baseline_hr": 55,
+    "acclimatization": 0.5080025431759393,
+    "body_mass_kg": 69.40794181903412,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00030",
+    "age": 30,
+    "bmi": 25.470924077925876,
+    "baseline_hr": 66,
+    "acclimatization": 0.2594456061733087,
+    "body_mass_kg": 73.61097058520578,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00031",
+    "age": 33,
+    "bmi": 24.300258429010746,
+    "baseline_hr": 64,
+    "acclimatization": 0.7101604169813038,
+    "body_mass_kg": 70.22774685984105,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00032",
+    "age": 31,
+    "bmi": 24.10150424933971,
+    "baseline_hr": 63,
+    "acclimatization": 0.6677635989710411,
+    "body_mass_kg": 69.65334728059175,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00033",
+    "age": 31,
+    "bmi": 23.213077512892625,
+    "baseline_hr": 66,
+    "acclimatization": 0.21398815383925038,
+    "body_mass_kg": 67.08579401225968,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00034",
+    "age": 37,
+    "bmi": 24.92120854133983,
+    "baseline_hr": 75,
+    "acclimatization": 0.8991749802768096,
+    "body_mass_kg": 72.0222926844721,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00035",
+    "age": 31,
+    "bmi": 24.861255173033513,
+    "baseline_hr": 55,
+    "acclimatization": 0.5623532442371647,
+    "body_mass_kg": 71.84902745006684,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00036",
+    "age": 26,
+    "bmi": 22.091103975467483,
+    "baseline_hr": 68,
+    "acclimatization": 0.11720806030528544,
+    "body_mass_kg": 63.84329048910102,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00037",
+    "age": 30,
+    "bmi": 26.674667777721343,
+    "baseline_hr": 62,
+    "acclimatization": 0.7382952358380537,
+    "body_mass_kg": 77.08978987761468,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00038",
+    "age": 33,
+    "bmi": 23.297931809263993,
+    "baseline_hr": 55,
+    "acclimatization": 0.8292508258956944,
+    "body_mass_kg": 67.33102292877294,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00039",
+    "age": 33,
+    "bmi": 26.356745655212315,
+    "baseline_hr": 71,
+    "acclimatization": 0.6461487339140903,
+    "body_mass_kg": 76.17099494356358,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00040",
+    "age": 34,
+    "bmi": 26.838276376699252,
+    "baseline_hr": 67,
+    "acclimatization": 0.6458102011138408,
+    "body_mass_kg": 77.56261872866082,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00041",
+    "age": 29,
+    "bmi": 28.0,
+    "baseline_hr": 70,
+    "acclimatization": 0.5941207455993032,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00042",
+    "age": 37,
+    "bmi": 21.17629403865023,
+    "baseline_hr": 67,
+    "acclimatization": 0.5983508660522894,
+    "body_mass_kg": 61.199489771699156,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00043",
+    "age": 29,
+    "bmi": 25.14233451542647,
+    "baseline_hr": 64,
+    "acclimatization": 0.7504795909427016,
+    "body_mass_kg": 72.66134674958249,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00044",
+    "age": 32,
+    "bmi": 21.986175749600974,
+    "baseline_hr": 73,
+    "acclimatization": 0.8847153362023445,
+    "body_mass_kg": 63.54004791634681,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00045",
+    "age": 32,
+    "bmi": 24.62860285049508,
+    "baseline_hr": 70,
+    "acclimatization": 0.23297252142525032,
+    "body_mass_kg": 71.17666223793077,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00046",
+    "age": 31,
+    "bmi": 25.402386143292734,
+    "baseline_hr": 75,
+    "acclimatization": 0.7868344842608042,
+    "body_mass_kg": 73.412895954116,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00047",
+    "age": 27,
+    "bmi": 21.513604999935556,
+    "baseline_hr": 66,
+    "acclimatization": 0.22976941353848676,
+    "body_mass_kg": 62.17431844981375,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00048",
+    "age": 41,
+    "bmi": 25.82742077267263,
+    "baseline_hr": 65,
+    "acclimatization": 0.35930825950182443,
+    "body_mass_kg": 74.6412460330239,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00049",
+    "age": 35,
+    "bmi": 24.633518998247798,
+    "baseline_hr": 61,
+    "acclimatization": 0.8361318231942586,
+    "body_mass_kg": 71.19086990493612,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00050",
+    "age": 31,
+    "bmi": 23.744831415712667,
+    "baseline_hr": 55,
+    "acclimatization": 0.8321487193780317,
+    "body_mass_kg": 68.6225627914096,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00051",
+    "age": 42,
+    "bmi": 23.310182289513975,
+    "baseline_hr": 67,
+    "acclimatization": 0.5316819995611456,
+    "body_mass_kg": 67.36642681669538,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00052",
+    "age": 43,
+    "bmi": 22.725588079847338,
+    "baseline_hr": 61,
+    "acclimatization": 0.6118824678511504,
+    "body_mass_kg": 65.67694955075879,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00053",
+    "age": 28,
+    "bmi": 28.0,
+    "baseline_hr": 59,
+    "acclimatization": 0.57078165406595,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00054",
+    "age": 34,
+    "bmi": 20.0,
+    "baseline_hr": 74,
+    "acclimatization": 0.36223187288251246,
+    "body_mass_kg": 57.8,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00055",
+    "age": 30,
+    "bmi": 22.079464783780736,
+    "baseline_hr": 73,
+    "acclimatization": 0.3877875764229829,
+    "body_mass_kg": 63.80965322512632,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00056",
+    "age": 34,
+    "bmi": 23.330651977232424,
+    "baseline_hr": 65,
+    "acclimatization": 0.6946095511487516,
+    "body_mass_kg": 67.4255842142017,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00057",
+    "age": 28,
+    "bmi": 24.528214883618286,
+    "baseline_hr": 55,
+    "acclimatization": 0.8863857711236662,
+    "body_mass_kg": 70.88654101365684,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00058",
+    "age": 37,
+    "bmi": 25.04408488538432,
+    "baseline_hr": 60,
+    "acclimatization": 0.20689366868183667,
+    "body_mass_kg": 72.37740531876068,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00059",
+    "age": 38,
+    "bmi": 23.650866706523384,
+    "baseline_hr": 73,
+    "acclimatization": 0.7136031765106947,
+    "body_mass_kg": 68.35100478185257,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00060",
+    "age": 30,
+    "bmi": 23.67715650209608,
+    "baseline_hr": 71,
+    "acclimatization": 0.15884512982592236,
+    "body_mass_kg": 68.42698229105766,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00061",
+    "age": 32,
+    "bmi": 28.0,
+    "baseline_hr": 72,
+    "acclimatization": 0.10322836176819597,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00062",
+    "age": 42,
+    "bmi": 27.035285590525096,
+    "baseline_hr": 59,
+    "acclimatization": 0.1128580008078095,
+    "body_mass_kg": 78.13197535661752,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00063",
+    "age": 26,
+    "bmi": 23.347134357000442,
+    "baseline_hr": 55,
+    "acclimatization": 0.8890395349198705,
+    "body_mass_kg": 67.47321829173127,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00064",
+    "age": 37,
+    "bmi": 21.218777859555455,
+    "baseline_hr": 62,
+    "acclimatization": 0.8628419126108691,
+    "body_mass_kg": 61.32226801411526,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00065",
+    "age": 44,
+    "bmi": 20.0,
+    "baseline_hr": 67,
+    "acclimatization": 0.8894576280257895,
+    "body_mass_kg": 57.8,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00066",
+    "age": 41,
+    "bmi": 23.237685790102205,
+    "baseline_hr": 55,
+    "acclimatization": 0.6943696864693598,
+    "body_mass_kg": 67.15691193339536,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00067",
+    "age": 42,
+    "bmi": 23.867468528361503,
+    "baseline_hr": 64,
+    "acclimatization": 0.8294211953808717,
+    "body_mass_kg": 68.97698404696473,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00068",
+    "age": 32,
+    "bmi": 24.610972527841113,
+    "baseline_hr": 61,
+    "acclimatization": 0.8160422057594177,
+    "body_mass_kg": 71.12571060546081,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00069",
+    "age": 43,
+    "bmi": 22.500640780726048,
+    "baseline_hr": 72,
+    "acclimatization": 0.30184839611296616,
+    "body_mass_kg": 65.02685185629826,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00070",
+    "age": 29,
+    "bmi": 25.336755913328133,
+    "baseline_hr": 71,
+    "acclimatization": 0.7725546492258275,
+    "body_mass_kg": 73.2232245895183,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00071",
+    "age": 33,
+    "bmi": 24.822193782246387,
+    "baseline_hr": 72,
+    "acclimatization": 0.30164881183832426,
+    "body_mass_kg": 71.73614003069206,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00072",
+    "age": 28,
+    "bmi": 24.323685558426934,
+    "baseline_hr": 59,
+    "acclimatization": 0.7419751695968159,
+    "body_mass_kg": 70.29545126385383,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00073",
+    "age": 31,
+    "bmi": 20.0,
+    "baseline_hr": 55,
+    "acclimatization": 0.2700752945067133,
+    "body_mass_kg": 57.8,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00074",
+    "age": 32,
+    "bmi": 26.009529674727773,
+    "baseline_hr": 66,
+    "acclimatization": 0.8459500551473634,
+    "body_mass_kg": 75.16754075996326,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00075",
+    "age": 42,
+    "bmi": 21.922746216548788,
+    "baseline_hr": 72,
+    "acclimatization": 0.7767629452269746,
+    "body_mass_kg": 63.35673656582599,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00076",
+    "age": 36,
+    "bmi": 27.581505495649296,
+    "baseline_hr": 69,
+    "acclimatization": 0.8604536880667852,
+    "body_mass_kg": 79.71055088242646,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00077",
+    "age": 32,
+    "bmi": 24.440739324868698,
+    "baseline_hr": 55,
+    "acclimatization": 0.6744684482224843,
+    "body_mass_kg": 70.63373664887052,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00078",
+    "age": 25,
+    "bmi": 21.872659099231257,
+    "baseline_hr": 62,
+    "acclimatization": 0.7605026688837861,
+    "body_mass_kg": 63.211984796778324,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00079",
+    "age": 38,
+    "bmi": 23.448897683865773,
+    "baseline_hr": 55,
+    "acclimatization": 0.6808585690836904,
+    "body_mass_kg": 67.76731430637207,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00080",
+    "age": 36,
+    "bmi": 27.559595416481212,
+    "baseline_hr": 65,
+    "acclimatization": 0.8597180767181705,
+    "body_mass_kg": 79.6472307536307,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00081",
+    "age": 28,
+    "bmi": 26.390961322206046,
+    "baseline_hr": 64,
+    "acclimatization": 0.6621211588877356,
+    "body_mass_kg": 76.26987822117546,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00082",
+    "age": 30,
+    "bmi": 20.0,
+    "baseline_hr": 56,
+    "acclimatization": 0.7881607850001187,
+    "body_mass_kg": 57.8,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00083",
+    "age": 34,
+    "bmi": 26.203914692644993,
+    "baseline_hr": 65,
+    "acclimatization": 0.8068290923548253,
+    "body_mass_kg": 75.72931346174403,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00084",
+    "age": 31,
+    "bmi": 22.909965537363885,
+    "baseline_hr": 55,
+    "acclimatization": 0.11439821756438948,
+    "body_mass_kg": 66.20980040298161,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00085",
+    "age": 27,
+    "bmi": 25.979119085279034,
+    "baseline_hr": 67,
+    "acclimatization": 0.22358065326797738,
+    "body_mass_kg": 75.0796541564564,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00086",
+    "age": 32,
+    "bmi": 26.630410023615593,
+    "baseline_hr": 55,
+    "acclimatization": 0.6366956367557711,
+    "body_mass_kg": 76.96188496824905,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00087",
+    "age": 41,
+    "bmi": 28.0,
+    "baseline_hr": 60,
+    "acclimatization": 0.34221558289184373,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00088",
+    "age": 29,
+    "bmi": 25.92491323265403,
+    "baseline_hr": 62,
+    "acclimatization": 0.2247112404454713,
+    "body_mass_kg": 74.92299924237014,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00089",
+    "age": 41,
+    "bmi": 26.06371786864124,
+    "baseline_hr": 73,
+    "acclimatization": 0.18097892179076658,
+    "body_mass_kg": 75.32414464037318,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00090",
+    "age": 27,
+    "bmi": 28.0,
+    "baseline_hr": 55,
+    "acclimatization": 0.12315263310050087,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00091",
+    "age": 30,
+    "bmi": 21.55473852389991,
+    "baseline_hr": 73,
+    "acclimatization": 0.3690779700563084,
+    "body_mass_kg": 62.29319433407073,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00092",
+    "age": 40,
+    "bmi": 23.366061725329963,
+    "baseline_hr": 58,
+    "acclimatization": 0.8414137606331769,
+    "body_mass_kg": 67.52791838620358,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00093",
+    "age": 31,
+    "bmi": 25.532561740241306,
+    "baseline_hr": 58,
+    "acclimatization": 0.8412622493768742,
+    "body_mass_kg": 73.78910342929737,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00094",
+    "age": 27,
+    "bmi": 26.500686152313865,
+    "baseline_hr": 74,
+    "acclimatization": 0.15514494770266912,
+    "body_mass_kg": 76.58698298018706,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00095",
+    "age": 28,
+    "bmi": 25.51550027511429,
+    "baseline_hr": 57,
+    "acclimatization": 0.19850648833940843,
+    "body_mass_kg": 73.7397957950803,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00096",
+    "age": 29,
+    "bmi": 25.495928871508543,
+    "baseline_hr": 75,
+    "acclimatization": 0.3684264367508904,
+    "body_mass_kg": 73.68323443865968,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00097",
+    "age": 40,
+    "bmi": 25.467576818193596,
+    "baseline_hr": 55,
+    "acclimatization": 0.32481321387889717,
+    "body_mass_kg": 73.60129700457948,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00098",
+    "age": 35,
+    "bmi": 28.0,
+    "baseline_hr": 73,
+    "acclimatization": 0.6302446528831983,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00099",
+    "age": 39,
+    "bmi": 28.0,
+    "baseline_hr": 75,
+    "acclimatization": 0.27085773939062385,
+    "body_mass_kg": 80.91999999999999,
+    "scenario": "humidity_spike"
+  },
+  {
+    "worker_id": "W-00100",
+    "age": 34,
+    "bmi": 20.911366330001993,
+    "baseline_hr": 74,
+    "acclimatization": 0.7667814748745626,
+    "body_mass_kg": 60.433848693705755,
+    "scenario": "humidity_spike"
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-11-16T11:40:15.573170",
+  "num_workers": 100,
+  "scenarios": [
+    "normal",
+    "extreme_heat",
+    "humidity_spike"
+  ],
+  "total_datapoints": 144000,
+  "shift_duration_minutes": 480,
+  "resolution_minutes": 1,
+  "datapoints_per_worker": 480,
+  "core_temp_range": {
+    "min": 37.15,
+    "max": 42.0,
+    "mean": 41.85489527777778
+  },
+  "psi_range": {
+    "min": 0.3,
+    "max": 10,
+    "mean": 9.791535763888888
+  },
+  "validation": {
+    "core_temp_within_bounds": true,
+    "psi_within_bounds": true,
+    "sweat_rate_within_bounds": true
+  }
+}
