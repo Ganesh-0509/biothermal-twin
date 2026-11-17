@@ -9,11 +9,12 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "@tailwindcss/postcss": "^4.3.5",
     "next": "16.4.6",
     "react": "19.3.0",
     "react-dom": "19.3.0",
-    "swr": "^2.2.4",
-    "recharts": "^2.10.3"
+    "recharts": "^2.10.3",
+    "swr": "^2.2.4"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "4.3.3",
