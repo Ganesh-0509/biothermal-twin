@@ -135,14 +135,9 @@ Clinical validation pending IRB approval
 - [ ] Other hardware
 
 ### Prototype / Deployment Link
-**Local (for now):**
-- Backend API: http://localhost:8000
-- Frontend: http://localhost:3000
-- GitHub: https://github.com/Ganesh-0509/biothermal-twin
-
-**TODO:** Deploy to:
-- Backend → Render.com
-- Frontend → Vercel.app
+- **Live Production Prototype (Vercel)**: https://biothermal-twin.vercel.app
+- **Public GitHub Repository**: https://github.com/Ganesh-0509/biothermal-twin
+- **Local API Endpoints**: http://localhost:8000 (Swagger docs at `/docs`)
 
 ### Software/Hardware
 **☑ Software**

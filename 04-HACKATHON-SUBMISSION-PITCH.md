@@ -11,6 +11,10 @@
 ### Selected Track
 `[Population Health] Population and Workforce Health Early Warning`
 
+### Prototype / Deployment Link
+- **Live Production URL**: `https://biothermal-twin.vercel.app`
+- **GitHub Repository**: `https://github.com/Ganesh-0509/biothermal-twin`
+
 ### One-Sentence Hook (Short Description)
 A physics-informed digital twin combining thermodynamic heat-balance neural networks and Med42 multilingual conversational triage to anticipate subclinical heat strain and acute kidney injury in extreme-climate workforces 48 to 72 hours before clinical collapse.
 

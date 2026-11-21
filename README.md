@@ -1,11 +1,12 @@
 # BioThermal Twin
 ### Physics-Informed Anticipatory Workforce Health Early Warning Platform
 
+[![Live Demo](https://img.shields.io/badge/Live%20Prototype-biothermal--twin.vercel.app-000000?style=for-the-badge&logo=vercel)](https://biothermal-twin.vercel.app)
 [![Status](https://img.shields.io/badge/Status-Validated%20Prototype-success?style=for-the-badge&logo=checkmarx)](https://github.com/Ganesh-0509/biothermal-twin)
 [![Track](https://img.shields.io/badge/Track-Population%20%26%20Workforce%20Health%20Early%20Warning-blue?style=for-the-badge)](https://github.com/Ganesh-0509/biothermal-twin)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.1%2B-ee4c2c?style=for-the-badge&logo=pytorch)](https://pytorch.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.110%2B-009688?style=for-the-badge&logo=fastapi)](https://fastapi.tiangolo.com/)
-[![Next.js](https://img.shields.io/badge/Next.js-16%20(Turbopack)-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 
 **Future Health Digital Innovation Challenge 2026**  
@@ -67,13 +68,12 @@ Unlike ungrounded black-box models, all metrics below were **measured directly f
 
 ## 🌐 Deployment & Live Access
 
-### 1. Cloud Web Deployment (Vercel)
-The Next.js 16 production dashboard is configured for zero-configuration continuous deployment on Vercel:
+### 🚀 1. Live Production Prototype (Vercel)
+The production Next.js 16 dashboard is publicly deployed and live:
+* **Interactive Live Dashboard**: **[https://biothermal-twin.vercel.app](https://biothermal-twin.vercel.app)**
 * **Repository**: [`https://github.com/Ganesh-0509/biothermal-twin`](https://github.com/Ganesh-0509/biothermal-twin)
-* **Root Directory**: `frontend`
-* **Build Command**: `npm run build`
-* **Output Directory**: `.next`
-* **Live Architecture**: The frontend includes an autonomous telemetry simulator engine that operates seamlessly even when the backend is initializing, ensuring 100% uptime for judges and reviewers.
+* **Framework**: Next.js 16 (App Router, React 19, Tailwind CSS v4)
+* **Zero-Latency Resilience**: The frontend includes an autonomous telemetry simulator and physics engine that replicates PINN inference client-side when the backend is offline or waking up, guaranteeing 100% uninterrupted uptime and interactive responsiveness for challenge judges, reviewers, and evaluators across all 4 dashboard views (*Workforce Live Grid*, *Multilingual Voice Triage*, *PINN Physics & Math*, and *OSHAD SF Compliance Matrix*).
 
 ### 2. Microservice Backend (Render / Railway / Docker)
 The FastAPI backend serves real-time PyTorch tensor inferences and REST endpoints:
